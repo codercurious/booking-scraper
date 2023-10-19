@@ -1,5 +1,5 @@
 # Booking.com Scraper Pro
-Interested in using this scraper? Get it here: [Booking.com Scraper Pro](https://apify.com/curious_coder/booking-scraper)
+Interested in using this scraper? Get it here: [Booking.com Scraper Pro](https://apify.com/curious_coder/booking-scraper?fpr=ve081&fp_sid=github_booking-scraper)
 ## How it works
 
 
